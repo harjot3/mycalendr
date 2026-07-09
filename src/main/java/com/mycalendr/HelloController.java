@@ -9,6 +9,4 @@ public class HelloController {
     public String getMethodName() {
         return "Greetings!";
     }
-    
-
 }
